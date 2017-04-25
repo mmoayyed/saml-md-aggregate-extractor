@@ -1,7 +1,7 @@
 # SAML Metadata Aggregate Extractor
 
 Run XSL transformation on SAML XML metadata to extract the metadata for an entity id.
-Inspired by @trscavo's excellent work here: https://gist.github.com/trscavo
+Inspired by [@trscavo](https://github.com/trscavo)'s excellent work here: https://gist.github.com/trscavo
 
 ## Windows
 
